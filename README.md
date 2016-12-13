@@ -6,3 +6,4 @@ mr - used Python MapReduce to analyze the Wikipedia dataset
     • Calculated Shannon entropy of n-grams for n=1,2,3 for English and Thai Wikipedia corpora
     • Calculated number of links per page on simple and full English Wikipedia
     • Found avg, std, and quantiles 1-4 of links per page [reservoir sampling]
+    • Identified related concepts via "double links" [bayesian smoothing]
